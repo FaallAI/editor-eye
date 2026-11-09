@@ -39,3 +39,7 @@ The skill was written test-first, as the
 [writing-skills](https://github.com/obra/superpowers) method asks: an agent analysed a reference Short
 without the skill, and the gaps it left became the skill's steps. See
 [`docs/testing.md`](docs/testing.md).
+
+## License
+
+Copyright 2026 FaallAI. Licensed under the [Apache License 2.0](LICENSE).
